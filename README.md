@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently  a student at [42 Barcelona 💻](https://www.42barcelona.com/es)
 - 📫 Mail: moll.bruno.99@gmail.com
-
-# GitHub
+- 🪪 Profile:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChewyToast&layout=compact&theme=dark&hide_border=true)
-![ChewyToast's github stats](https://github-readme-stats.vercel.app/api?username=ChewyToast&show_icons=true&hide_border=true&theme=dark)
 
 # 42 Cursus
 
