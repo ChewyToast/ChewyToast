@@ -3,7 +3,11 @@
 
 - 🔭 I’m currently  a student at [42 Barcelona 💻](https://www.42barcelona.com/es)
 - 📫 Mail: moll.bruno.99@gmail.com
-- 🌱 I’m currently learning and working on 42 Projects: 
+
+# GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChewyToast&layout=compact&theme=dark&hide_border=true)
+
 # 42 Cursus
 
 <table>
