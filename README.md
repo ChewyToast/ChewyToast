@@ -9,6 +9,6 @@
   
 - 👨‍💻 Actual project: [42_Cursus](https://github.com/ChewyToast/42_Cursus)
 
-- 🪪 Used tools:
+- 💽 Used so far:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChewyToast&layout=compact&theme=dark&hide_border=true)
