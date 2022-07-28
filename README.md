@@ -1,7 +1,6 @@
 ### <h1 align="center">Hi 👋, I'm Bruno Moll</h1>
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chewytoast" alt="chewytoast" /></a> </p>
-<br>
 
 - 🌱 I’m currently learning C and Shell at [42 Barcelona 💻](https://www.42barcelona.com/es)
 
