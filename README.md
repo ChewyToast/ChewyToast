@@ -28,7 +28,7 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 <br>
 <h2 align="center">GITHUB STATS</h2>
-<p align="center"> <a href="https://github.com/ChewyToast"> <img href="https://github.com/ChewyToast" src="https://metrics.lecoq.io/chewytoast" alt="Github Metrics"> </p>
+<p align="center"> <img href="https://github.com/ChewyToast"> <img href="https://github.com/ChewyToast" src="https://metrics.lecoq.io/chewytoast" alt="Github Metrics"> </p>
 <p align="center"> <a href="https://github.com/ChewyToast"><img src="https://github-profile-trophy.vercel.app/?username=chewytoast" alt="chewytoast" /></a> </p>
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chewytoast&show_icons=true&locale=en&layout=compact" alt="chewytoast" />-->
 <!--<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chewytoast&" alt="chewytoast" /></p>-->
